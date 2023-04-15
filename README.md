@@ -4,7 +4,7 @@
 https://www.kaggle.com/datasets/harits/anime-database-2022
 
 Описание данных: 
-Column - Description
+Column - Description \n
 ID - ID anime at MyAnimeList.net
 Title - The original name of the anime
 Synonyms - The synonym name of the anime
